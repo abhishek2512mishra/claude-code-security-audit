@@ -18,7 +18,7 @@ A security audit and environment hardening tool for Anthropic's **Claude Code** 
 Scan your workspace or cloned repository before launching agentic coding sessions:
 
 ```bash
-git clone https://github.com/eyestech-labs/claude-code-security-audit.git
+git clone https://github.com/abhishek2512mishra/claude-code-security-audit.git
 cd claude-code-security-audit
 python audit_hooks.py /path/to/project
 ```

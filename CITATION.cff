@@ -8,7 +8,7 @@ title: "Claude Code Security Audit & CVE-2026-21852 Hook Hijacking Hardening Sca
 version: 1.0.0
 date-released: 2026-09-11
 url: "https://eyestech.in/claude-code-token-compromise-hook-security-audit/"
-repository-code: "https://github.com/eyestech-labs/claude-code-security-audit"
+repository-code: "https://github.com/abhishek2512mishra/claude-code-security-audit"
 license: "MIT"
 keywords:
   - "claude-code"
