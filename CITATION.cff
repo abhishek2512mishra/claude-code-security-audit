@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you cite this security audit or scanner in your research, please cite it as below."
+authors:
+  - family-names: "Rostova"
+    given-names: "Elena"
+    affiliation: "EyesTech Systems Lab"
+title: "Claude Code Security Audit & CVE-2026-21852 Hook Hijacking Hardening Scanner"
+version: 1.0.0
+date-released: 2026-09-11
+url: "https://eyestech.in/claude-code-token-compromise-hook-security-audit/"
+repository-code: "https://github.com/eyestech-labs/claude-code-security-audit"
+license: "MIT"
+keywords:
+  - "claude-code"
+  - "cve-2026-21852"
+  - "ai-agent-security"
+  - "prompt-injection"
+  - "infosec"
