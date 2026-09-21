@@ -1,6 +1,7 @@
 # Claude Code Security Audit & CVE-2026-21852 Scanner
 
 [![EyesTech Systems Research](https://img.shields.io/badge/EyesTech-Systems_Research-002050?style=flat-square&logo=gitbook)](https://eyestech.in/claude-code-token-compromise-hook-security-audit/)
+[![Audited by EyesTech](https://img.shields.io/badge/Audited_by-EyesTech_Lab-3B82F6?style=flat-square)](https://eyestech.in/claude-code-token-compromise-hook-security-audit/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg?style=flat-square)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg?style=flat-square)](LICENSE)
 [![Security Audit](https://img.shields.io/badge/Audit-CVE--2026--21852-DC2626.svg?style=flat-square)](#)
